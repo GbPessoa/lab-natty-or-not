@@ -21,21 +21,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+# Apresentação pessoal 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Apresentação Pessoal com IA generativa
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+Chatgpt para o roteiro 
+Gemini Pro criação do video 
+D-ID criação do video
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Precisei do chatgpt para criar a apresentação com as minhas informações e depois utlizei as outras IAs para gerar o video, infelizmente esqueci de dizer ao Gemini que era para ser em português então fiquem com as duas versões uma falando em inglês e outra em português.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Por ter o limite de crédito acredito que não ficou tão bom quanto gostaria da para que é IA ainda. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Reflexão é que as IAs ainda não são tão inteligentes assim, pois mesmo mandando o texto em português e pedindo para utilizar aquele script o gemini pro não fez o que eu tinha solicitado, tive que detalhar muito para ele conseguir entender o que eu estava pedindo.
 ```
 
 ### Exemplos e Insigths
